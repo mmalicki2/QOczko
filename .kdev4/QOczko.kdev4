@@ -1,0 +1,15 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x02\x00\x00\x00\x0c\x00Q\x00O\x00c\x00z\x00k\x00o\x00\x00\x00\x0c\x00Q\x00O\x00c\x00z\x00k\x00o)
+
+[CMake]
+BuildDirs=/home/mateusz/projects/QOczko/build
+CMakeDir=/usr/share/cmake-2.6/Modules
+Current CMake Binary=file:///usr/bin/cmake
+CurrentBuildDir=file:///home/mateusz/projects/QOczko/build
+CurrentBuildType=debug
+CurrentInstallDir=
+ProjectRootRelative=./
+
+[MakeBuilder]
+Number Of Jobs=4
+Run Multiple Jobs=true
